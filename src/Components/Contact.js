@@ -97,6 +97,7 @@ class Contact extends Component {
                         <a href="#">http://t.co/CGIrdxIlI3</a>
                         </span>
                         <b><a href="#">2 Days Ago</a></b>
+	    		</li>
                      <li>
                         <span>
                         Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
